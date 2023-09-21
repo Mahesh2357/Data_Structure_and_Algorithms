@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "gg",
+			"path": "C:\\Users\\Com\\OneDrive\\Documents\\PlatformIO\\Projects\\gg"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
